@@ -2,7 +2,7 @@
 
 Proyek analisis data pada dataset e-commerce Brasil (Olist) untuk menjawab dua pertanyaan bisnis: kategori produk mana yang paling cepat tumbuh, dan bagaimana keterlambatan pengiriman berkaitan dengan kepuasan pelanggan. Hasilnya disajikan dalam notebook dan dashboard interaktif Streamlit.
 
-**Dashboard:** [isi tautan Streamlit Cloud setelah deploy]
+  **Dashboard:** [https://olist-ecommerce-analysis-nitarahma.streamlit.app/]
 
 ## Pertanyaan Bisnis
 
@@ -67,4 +67,4 @@ submission
 
 ## Pembuat
 
-[Isi nama] - [isi ID Dicoding atau tautan profil]
+[Nita Rahmawati] - [DS009B6X1383]
